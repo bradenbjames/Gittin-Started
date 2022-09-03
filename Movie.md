@@ -1,6 +1,6 @@
 **TOP GUN**
 *IceMan is Top Gun*
-![Top Gun, 1986](https://www.midway.org/wp-content/uploads/2022/03/TopGun_1s_IVA_True.jpg)
+![Top Gun, 1986](https://variety.com/wp-content/uploads/2022/05/Top-Gun-Maverick.jpg?w=681&h=383&crop=1)
 
 Set 30 years after its predecessor, it follows Maverick's return to the United States Navy Strike Fighter Tactics Instructor program (also known as U.S. Navy-Fighter Weapons School - "TOPGUN"), where he must confront his past as he trains a group of younger pilots, among them the son of Maverick's deceased best friend Lieutenant Nick "Goose" Bradshaw, USN.—Wrathzo
 
