@@ -6,11 +6,5 @@
 [What Top Gun: Maverick's Historic Success Can Teach Hollywood](https://www.denofgeek.com/movies/top-gun-maverick-success-can-teach-hollywood/)
 
 ```
-public class Print
-{
-    public static void main(String[] args)
-    {
-        System.out.println("Top Gun: Maverick, 2022");
-    }
-}
+System.out.println("Top Gun: Maverick, 2022");
 ```
